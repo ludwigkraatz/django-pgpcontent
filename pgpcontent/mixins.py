@@ -1,0 +1,4 @@
+
+    
+class ForceEncryptionMixin(object):
+    pass
